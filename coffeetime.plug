@@ -1,0 +1,9 @@
+[Core]
+Name = CoffeeTime
+Module = coffeetime
+
+[Documentation]
+Description = CoffeeTime! Who has to bring the coffee?
+
+[Python]
+Version = 3

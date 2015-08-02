@@ -1,0 +1,18 @@
+language: python
+
+python:
+  - "3.4"
+  - "3.3"
+
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -qq build-essential libssl-dev libffi-dev python-dev
+
+install:
+  - pip install -r requirements_for_testing.txt
+
+script:
+  - py.test
+
+notifications:
+  email: false

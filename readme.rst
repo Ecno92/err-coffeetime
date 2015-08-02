@@ -2,8 +2,8 @@
 CoffeeTime
 ==========
 
-.. image:: https://travis-ci.org/Ecno92/coffeetime.svg
-    :target: https://travis-ci.org/Ecno92/coffeetime
+.. image:: https://travis-ci.org/Ecno92/err-coffeetime.svg?branch=master
+    :target: https://travis-ci.org/Ecno92/err-coffeetime
 
 CoffeeTime is a `Err <http://errbot.net/>`_ plugin which tells who has to bring the coffee.
 If you ever end up in a fight about who has to bring the coffee then this plugin is the solution.

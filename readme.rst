@@ -1,6 +1,6 @@
-==========
-CoffeeTime
-==========
+===================
+CoffeeTime :coffee:
+===================
 
 .. image:: https://travis-ci.org/Ecno92/err-coffeetime.svg?branch=master
     :target: https://travis-ci.org/Ecno92/err-coffeetime
